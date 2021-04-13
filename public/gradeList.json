@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+    "gradeId": 1,
+    "gradeName": "大一"
+  },{
+    "gradeId": 2,
+    "gradeName": "大二"
+  },{
+    "gradeId": 3,
+    "gradeName": "大三"
+  },{
+    "gradeId": 6,
+    "gradeName": "大四"
+  }
+  ],
+  "pageTotal": 4
+}
